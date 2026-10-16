@@ -63,5 +63,6 @@ Future Improvements
 - Improve missing-value handling and standardize country/genre names.
 - Evaluate forecasting approaches using a time-based validation split and compare against a simple baseline.
 - Add a requirements file and document the dataset source.
+
 Author
 Vindhya Vasini
